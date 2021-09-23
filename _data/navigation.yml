@@ -2,10 +2,10 @@
 main:
   - title: "Home"
     url: https://eunnyoung.github.io
-  # - title: "About"
-  #   url: /about/
-  # - title: "나의 첫 파이썬"
-  #   url: /MakingBlog/
+  - title: "About"
+     url: /about/
+  - title: "나의 첫 파이썬"
+     url: /MyFirstPython/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
