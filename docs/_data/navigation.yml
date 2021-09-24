@@ -20,16 +20,13 @@ foo:
 
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: /docs/quick-start-guide/
+
+  - title: "Home"
+    url: https://eunnyoung.github.io
   - title: "About"
     url: /about/
-  - title: "Sample Posts"
-    url: /year-archive/
-  - title: "Sample Collections"
-    url: /collection-archive/
-  - title: "Terms &amp; Privacy Policy"
-    url: /terms/
+  - title: "MyFirstPython"
+    url: /MyFirstPython/
 
 
 # documentation links
