@@ -20,7 +20,6 @@ foo:
 
 # main links
 main:
-
   - title: "Home"
     url: https://eunnyoung.github.io
   - title: "About"
