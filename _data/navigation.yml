@@ -3,11 +3,11 @@ main:
   - title: "홈"
     url: https://eunnyoung.github.io
   - title: "About"
-     url: /about/
+    url: /about/
   - title: "나의 첫 파이썬"
-     url: /MyFirstPython/
+    url: /MyFirstPython/
   - title: "Categories"
-     url: /categories/
+    url: /categories/
   - title: "Tags"
     url: /tags/
 
