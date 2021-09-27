@@ -1,5 +1,5 @@
 ---
-title: "나의 첫 파이썬"
+title: "'My First Python' 책 따라하기!"
 permalink: /MyFirstPython/
 layout: single
 author_profile: true
