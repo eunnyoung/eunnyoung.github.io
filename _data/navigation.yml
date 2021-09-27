@@ -1,10 +1,10 @@
 # main links
 main:
-  - title: "홈"
+  - title: "Home"
     url: https://eunnyoung.github.io
   - title: "About"
     url: /about/
-  - title: "나의 첫 파이썬"
+  - title: "My First Python"
     url: /MyFirstPython/
   - title: "Categories"
     url: /categories/
