@@ -6,4 +6,4 @@ author_profile: true
 
 ---
 
-1. [91p](https://eunnyoung.github.io/91pB/)
+1. [91p](https://eunnyoung.github.io/blog/My-First-Python-91p)
