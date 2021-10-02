@@ -1,11 +1,12 @@
 ---
 
-title : "책 따라하기"
+title : "About"
 
 permalink: /About/
 
 layout: single
 ---
 
-##About
+##About Me
 
+- 딥러닝, 머신러닝 엔지니어가 되고 싶은 컴퓨터공학과 3학년입니다.
