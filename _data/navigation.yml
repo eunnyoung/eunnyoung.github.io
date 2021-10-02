@@ -6,6 +6,8 @@ main:
     url: /About/
   - title: "My First Python"
     url: /MyFirstPython/
+  - title: "Github Blog"
+    url: /GithubBlog/
   - title: "Categories"
     url: /Categories/
   - title: "Tags"
