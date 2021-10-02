@@ -3,7 +3,7 @@ main:
   - title: "Home"
     url: https://eunnyoung.github.io
   - title: "About"
-    url: /about/
+    url: /About/
   - title: "My First Python"
     url: /MyFirstPython/
   - title: "Categories"
