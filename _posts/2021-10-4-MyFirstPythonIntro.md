@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "책 소개"
+title:  "Intro"
 ---
 
 "나의 첫 파이썬" 이라는 책을 지도교수님에게 추천받았다.
