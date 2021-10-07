@@ -5,5 +5,5 @@ layout: single
 author_profile : true
 ---
 
-1. 시작
+1. 시작 (https://eunnyoung.github.io/MyFirstPythonStart/)
 2. [91p]
