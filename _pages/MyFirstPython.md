@@ -7,4 +7,4 @@ author_profile : true
 
 1. [시작](https://eunnyoung.github.io/MyFirstPythonStart/)
 2. [91p]
-3. [API] (https://eunnyoung.github.io/469p/)
+3. [API](https://eunnyoung.github.io/469p/)
