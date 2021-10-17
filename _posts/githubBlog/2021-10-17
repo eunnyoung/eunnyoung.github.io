@@ -1,0 +1,11 @@
+---
+layout: post
+title: 페이지에 링크 거는 법
+
+3. [API] (https://eunnyoung.github.io/469p/)
+
+이렇게 [타이틀]과 (링크) 사이에 공백이 있으면 링크가 안 걸리고
+
+3. [API](https://eunnyoung.github.io/469p/)
+
+이렇게 공백이 없어야 링크가 제대로 걸린다.
