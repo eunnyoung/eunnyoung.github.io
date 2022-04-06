@@ -1,13 +1,11 @@
 ---
 
-title : "About"
+title : "About Me"
 
 permalink: /About/
 
 layout: single
 ---
-
-About Me
 
 - 컴퓨터공학과 4학년입니다.
 
