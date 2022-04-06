@@ -7,8 +7,8 @@ permalink: /About/
 layout: single
 ---
 
-##About Me
+About Me
 
-- 컴퓨터공학과 3학년입니다.
+- 컴퓨터공학과 4학년입니다.
 
-- Python 을 배우고 있습니다.
+- React, TypeScript, NextJs 를 배우고 있습니다.
