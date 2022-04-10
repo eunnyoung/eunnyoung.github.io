@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Eunyoung"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "**나의 첫 파이썬**으로 Python 배우는 중입니다."
+  bio              : "**개발은 "
   location         : "South Korea"
   email            :
   links:
