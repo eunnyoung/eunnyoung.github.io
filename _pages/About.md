@@ -7,7 +7,9 @@ permalink: /About/
 layout: single
 ---
 
-2022년 현재 저는,
+<center> 
+  2022년 현재 저는, 
+</center>
 
 - 컴퓨터공학과 4학년입니다.
 
