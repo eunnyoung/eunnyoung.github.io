@@ -7,10 +7,9 @@ permalink: /About/
 layout: single
 ---
 
-<center> 
+<pre> 
   2022년 현재 저는, 
-</center>
-
+</pre>
 - 컴퓨터공학과 4학년입니다.
 
 - 프론트엔드 개발자를 희망합니다.
