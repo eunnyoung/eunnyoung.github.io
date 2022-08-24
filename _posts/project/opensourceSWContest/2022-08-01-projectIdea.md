@@ -1,5 +1,5 @@
 ---
-layout:
+layout: post
 title: "프로젝트 주제 정하기"
 ---
 
